@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-     tema hojl
+     tema hojlbvbjhbbk
     </div>
   );
 };
