@@ -1,0 +1,32 @@
+.green {
+  width: 10px;
+  height: 10px;
+  background-color: green;
+  display: inline-block;
+  border-radius: 50%;
+  margin-right: 7px;
+}
+
+.red {
+  width: 10px;
+  height: 10px;
+  background-color: red;
+  display: inline-block;
+  border-radius: 50%;
+  margin-right: 7px;
+}
+
+.name {
+  font-size: 25px;
+  font-weight: 900px;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
+
+.item {
+  text-align: center;
+}
+
+.item:not(:last-child) {
+  margin-right: 50px;
+}
